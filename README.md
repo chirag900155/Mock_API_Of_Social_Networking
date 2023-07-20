@@ -46,8 +46,6 @@ Install dependencies using npm install.
 
 Start the server using npm start.
 
-The API will be available at http://localhost:3000.
-
 API Documentation:
 For detailed API documentation and usage examples, please refer to the API documentation provided in the docs folder.
 
