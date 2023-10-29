@@ -15,7 +15,7 @@ DELETE /api/users/{user_id}: Delete a user by ID.
 Post Management: 
  
 GET /api/posts: Retrieve all posts.
-GET /api/posts/{post_id}: Retrieve a specific post by ID. 
+GET /api/posts/{post_id}: Retrieve a specific post b y ID. 
 POST /api/posts: Create a new post.
 PUT /api/posts/{post_id}: Update a post by ID.
 DELETE /api/posts/{post_id}: Delete a post by ID.
