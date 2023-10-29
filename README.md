@@ -12,7 +12,7 @@ GET /api/users/{user_id}: Retrieve a specific user by ID.
 POST /api/users: Create a new user.
 PUT /api/users/{user_id}: Update a user by ID.
 DELETE /api/users/{user_id}: Delete a user by ID.
-Post Management:
+Post Management: 
  
 GET /api/posts: Retrieve all posts.
 GET /api/posts/{post_id}: Retrieve a specific post by ID. 
